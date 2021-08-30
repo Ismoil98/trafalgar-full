@@ -1,0 +1,641 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Mulish', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, ol, ol, li, em, i, strong, mark, a{
+  margin: 0;
+  padding: 0;
+}
+
+/* header start */
+
+/* header-logo end links start */
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1150px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header{
+/* Width: 1487px;
+Height: 719px; */
+  margin-top: 140px;
+  display: flex;
+  vertical-align: center;
+  margin-left: 247px;
+}
+
+.header-images{
+  width: 160px;
+  height: 41px;
+  opacity: 100%;
+  margin-bottom: 186px;
+  margin-right: 512px;
+}
+
+.header-left{
+ 
+}
+
+.header-right{
+  margin-bottom: 84px;
+}
+
+.header-lists{
+  display: flex;
+  list-style: none;
+}
+
+.header-links a{
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+.active{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #1F1534;
+}
+
+.passive{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: #1F1534;
+  opacity: 0.5;
+}
+
+/* header-logo end links finish */
+
+/* ############# */
+
+/* header-hiro1 start */
+
+.header-hiro1{
+  display: flex;
+  margin-right: 246px;;
+}
+
+.header-left-hiro1{
+margin-left: 246px;
+}
+
+.hiro1-sarlavha_1{
+  font-size: 48px;
+  margin-bottom: 25px;
+  width: 427px;
+  font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+color: #000000;
+}
+
+.hiro1-text_1{
+  font-size: 21px;
+  width: 445px;
+  font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+color: #7D7987;
+margin-bottom: 45px;
+
+}
+
+.button_1{
+	text-decoration: none;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 60px;
+	color: #fff;
+	border-radius: 55px;
+	background-color: #458FF6; 
+	padding: 20px 45px;
+}
+
+.header-right-hiro1{
+margin-left: 109px;
+}
+
+.hiro1-images{
+  padding-left: 109px;
+  padding-right: 107px;
+  width: 693px;
+  height: 598px;
+  margin-bottom: 113px;
+}
+
+/* header end */
+
+
+
+/* Our services start*/
+
+.Sarlavha{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  margin-bottom: 26px;
+  margin-left: 695px;
+}
+
+.ostki-chiziq1{
+  width: 56px;
+  height: 2px;
+  background-color: black;
+  border-radius: 5px;
+  margin-bottom: 33px;
+  margin-left: 772px;
+}
+
+.hiro2-text{
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px; 
+  text-align: center;
+  color: #7D7987;
+  width: 952px;
+  margin-bottom: 80px;
+  margin-left: 323px;
+}
+
+  .hiro2{
+  background-color: white;
+  display: flex;
+  margin-bottom: 69px;
+  margin-left: 175px;
+}
+
+.hiro2-block{
+  display: flex;
+  background-color: white;
+  list-style: none;
+}
+
+.hiro2-box{
+  width: 350px;
+  height: 354px;
+  border-radius: 10px;
+  background-color: rgb(255, 235, 235);
+  margin: 15px;
+} 
+
+
+
+.hiro2-box-text{
+width: 266px;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+color: #7D7987;
+}
+
+.hiro2-border{
+  margin: 25px;
+}
+
+.button_2{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+    border-radius: 55px;
+    border-color: #458FF6;
+    background-color:white; 
+    border-style: solid;
+    margin-bottom: 220px;
+    padding: 14px 51px;
+  }
+
+  .hiro2_button{
+    margin-left: 700px;
+    margin-bottom: 220px;
+  }
+
+
+/* Our services end */
+
+
+
+/* Leading healthcare providers start */
+
+.hiro3{
+display: flex;
+margin-left: 135px;
+margin-bottom: 229px;
+}
+
+.hiro-left-hiro3{
+  align-items: top;
+  vertical-align: top;
+}
+
+.hiro3-images{
+  width: 650px;
+  height: 477px;;
+  padding-right: 142px;
+  width: 693px;
+  height: 598px;
+}
+
+.header-left-hiro3{
+  margin-left: 142px;
+  }
+
+.hiro1-sarlavha_3{
+  font-size: 48px;
+  margin-bottom: 26px;
+  width: 481px;
+  font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+color: #000000;
+}
+
+.ostki-chiziq2{
+  width: 56px;
+  height: 2px;
+  background-color: black;
+  border-radius: 5px;
+  margin-bottom: 33px;
+  margin-right: auto;
+  margin-bottom: 31px;
+  
+}
+
+.hiro1-text_3{
+  font-size: 21px;
+  width: 445px;
+  font-style: normal;
+font-weight: 300;
+font-size: 21px;
+line-height: 32px;
+color: #7D7987;
+margin-bottom: 37px;
+
+}
+
+.hiro3_button{
+  margin-bottom: 220px;
+}
+
+/* Leading healthcare providers end */
+
+
+
+/* Download our mobile apps start */
+
+.hiro4{
+  display: flex;
+  margin-left: 135px;
+  }
+  
+  .header-right-hiro4{
+    margin-bottom: 266px;
+  }
+  
+  .hiro4-images{
+    padding-right: 142px;
+    width: 665px;
+    height: 434px;
+  }
+  
+  .header-left-hiro4{
+    margin-left: 280px;
+    margin-right: 71px;
+    }
+  
+  .hiro1-sarlavha_4{
+  font-size: 48px;
+  margin-bottom: 30px;
+  width: 481px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 56px;
+  color: #000000;
+  }
+
+  .ostki-chiziq3{
+    width: 56px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-bottom: 31px;
+    
+  }
+  
+  .hiro1-text_4{
+  font-size: 21px;
+  width: 445px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 32px;
+  color: #7D7987;
+  margin-bottom: 37px;
+  
+  }
+  
+  .hiro4_button{
+    margin-bottom: 220px;
+  }
+
+/* Download our mobile apps end */
+
+
+
+/* What our customer are saying  start*/
+
+.hiro5{
+width: 1220px;
+height: 425px;
+background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+border-radius: 24px;
+margin-left: 242px;
+margin-bottom: 284px;
+}
+
+.hiro5-name{
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+color: #FFFFFF;
+padding-top: 64px;
+text-align: center;
+margin-bottom: 25px;
+}
+
+.hiro5-underline{
+  width: 56px;
+  height: 2px;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 70px;
+}
+
+.hiro5-table{
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.hiro5-avatar{
+  padding-left: 122px;
+}
+
+.hiro5-image{
+  border-radius: 10pc;
+  width: 133px;
+  height: 133px;
+}
+
+.hiro5-info{
+  padding-right: 110px;
+}
+
+.hiro5-info-name{
+width: 200px;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 38px;
+color: #FFFFFF;
+padding-left: 33px;
+}
+
+.hiro5-info-specialist{
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+color: rgba(255, 255, 255, 0.85);
+padding-left: 33px;
+width: 119px;}
+
+.hiro5-info-text{
+  /* width: 300; */
+  /* padding-right: 118px; */
+}
+
+.hiro5-avatar-text{
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 30px;
+  color: rgba(255, 255, 255, 0.9);
+  padding-right: 118px;
+}
+
+/* What our customer are saying  end*/
+
+
+
+/* Check out our latest article start */
+
+.hiro6-sarlavha{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  color: #000000;
+  margin-bottom: 26px;
+  margin-left: 569px;
+}
+
+.ostki-chiziq1{
+  width: 56px;
+  height: 2px;
+  background-color: black;
+  border-radius: 5px;
+  margin-bottom: 72px;
+  margin-left: 772px;
+}
+
+  .hiro6{
+  background-color: rgb(139, 103, 103);
+  margin-bottom: 69px;
+  margin-left: 240px;
+}
+
+.hiro6-block{
+  display: flex;
+  background-color: white;
+  list-style: none;
+}
+
+.hiro6-box1{
+  width: 350px;
+  height: 512px;
+  border-radius: 20px;
+  background-color: rgb(195, 228, 250);
+  margin-right: 34px;
+} 
+
+.hiro6-box2{
+  width: 350px;
+  height: 512px;
+  border-radius: 20px;
+  background-color: rgb(195, 228, 250);
+  margin-right: 36px;
+} 
+
+.hiro6-box3{
+  width: 350px;
+  height: 512px;
+  border-radius: 20px;
+  background-color: rgb(195, 228, 250);
+} 
+
+.hiro6-image{
+  border-radius: 20px;
+  margin-bottom: 25px;
+}
+
+.hiro6-box-name{
+  padding-left: 33px;
+  padding-bottom: 12px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 32px;
+  color: #000000;
+  width: 265px;
+}
+
+.hiro6-box-text{
+padding-left: 33px;
+padding-bottom: 25px;
+width: 266px;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+color: #7D7987;
+width: 266px;
+}
+
+.hiro6-link{
+  padding-left: 33px;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 28px;
+  color: #4089ED
+}
+
+  .hiro6_button{
+    margin-left: 700px;
+    margin-bottom: 201px;
+  }
+
+/* Check out our latest article end */
+
+
+
+
+/* About start */
+
+.about{
+  width: 1600px;
+  height: 432px;
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  display: flex;
+}
+
+.about-block1{
+  padding-top: 118px;
+  padding-left: 190px;
+  margin: 5px;
+  width: 391px;
+}
+
+.about-image{
+  padding-bottom: 17px;
+  width: 160px;
+  height: 41px;
+}
+
+.about-text{
+font-style: normal;
+font-weight: 91;
+font-size: 18px;
+line-height: 28px;
+color: #FFFFFF;
+padding-bottom: 31px;
+}
+
+.about-info{
+  font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+color: #FFFFFF;
+width: 391px;
+}
+
+.about-block2{
+  padding-top: 118px;
+  margin: 5px;
+  padding-left: 80px;
+}
+
+.about-sections{
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 60px;
+color: #FFFFFF;
+}
+
+.about-lists1{
+  list-style: none;
+  padding-left: 70px;
+}
+
+.about-links{
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+color: #FFFFFF;
+text-decoration: none;
+padding-top: 10px;
+}
+
+.about-block3{
+  padding-top: 118px;
+  padding-left: 75px;
+  margin: 5px;
+}
+
+.about-block4{
+  padding-top: 118px;
+  padding-left: 70px;
+  margin: 5px;
+}
+
+
+/* About end */
